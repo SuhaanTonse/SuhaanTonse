@@ -5,9 +5,9 @@
 
 I'm Suhaan Tonse from India, and I really enjoy learning languages and frameworks.
 
-Skills: Python/Flask / JS / HTML / CSS        
+Skills: Python / Java / JS / HTML / CSS        
 
-- 🔭 I’m currently working on Web Development 
+- 🔭 I’m currently working on Machine Learning 
 - 🤔 I’m looking for help with AWS 
 - ⚡ Fun fact: My favorite comfort food is Pizza 
 
